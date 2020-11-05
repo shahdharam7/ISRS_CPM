@@ -8,7 +8,7 @@ Pure endmember extraction from the hyperspectral image is a very essential step 
 Shah, D., Zaveri, T. & Trivedi, Y.N. Convex Polygon Maximization-Based Hyperspectral Endmember Extraction Algorithm. J Indian Soc Remote Sens (2020). https://doi.org/10.1007/s12524-020-01221-5
 
 # How to run the code?
-Download all the above files in zip. Extract it. And run the "demo_kmedoid.m" file in MATLAB. 
+Download all the above files in zip. Extract it. And run the "Demo_cuprite.m" file in MATLAB. 
 
 # Authors:
 - Dharambhai Shah, Nirma University ---> shahdharam7@gmail.com (For any clarification)
